@@ -1,3 +1,4 @@
 # Docs
 
-![udmurtnlp](https://github.com/udmurtNLP/docs/assets/19909792/cee1d78a-4d6c-459c-8fbf-98037333ca71)
+![udmurtnlp](https://github.com/udmurtNLP/docs/assets/19909792/c79be2b5-385b-4869-90cb-8491de861f11)
+
